@@ -53,7 +53,7 @@ Linear Layer (10 classes)
 ## 📈 Performance
 
 With this architecture and training strategy, you can expect:
-- **80-85% test accuracy** after 100 epochs
+- **80-85% test accuracy** after 30 epochs
 - **Fast training** - completes in reasonable time on a single GPU
 - **Good generalization** - minimal overfitting thanks to proper regularization
 
